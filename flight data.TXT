@@ -1,0 +1,1073 @@
+System_Clock: 2776494
+relative altitude: -7.7 meters, -25 feet
+G: 49.67, -11.17, 6.97 deg/s
+A: 0.60, -0.80, 2.00 g
+M: -0.06, -0.08, -0.30 gauss
+Pitch, Roll: -15.64, -21.92
+Heading: 59.82
+
+System_Clock: 2776860
+relative altitude:  20.8 meters,  68 feet
+G: 16.08, -8.89, 47.34 deg/s
+A: 0.46, 0.70, 2.00 g
+M: -0.05, 0.02, -0.30 gauss
+Pitch, Roll: -12.28, 19.40
+Heading: -14.90
+
+System_Clock: 2777225
+relative altitude:  43.6 meters,  143 feet
+G: 54.13, 3.58, 51.76 deg/s
+A: 0.19, 0.48, 2.00 g
+M: -0.01, 0.20, -0.26 gauss
+Pitch, Roll: -5.30, 13.42
+Heading: -  79.20
+
+System_Clock: 2777589
+relative altitude:  75.7 meters,  248 feet
+G: 4.17, -24.77, -75.38 deg/s
+A: 0.08, 0.51, 2.00 g
+M: -0.00, 0.26, -0.18 gauss
+Pitch, Roll: -2.36, 14.43
+Heading: -80.96
+
+System_Clock: 2777956
+relative altitude:  105.3 meters,  346 feet
+G: -8.75, -28.06, -91.68 deg/s
+A: 0.53, 0.52, 0.96 g
+M: -0.10, 0.16, -0.13 gauss
+Pitch, Roll: -26.10, 28.46
+Heading: -48.52
+
+System_Clock: 2778326
+relative altitude:  78.5 meters,  257 feet
+G: 3.12, 2.39, -5.53 deg/s
+A: 0.04, -0.22, -0.26 g
+M: -0.13, 0.05, -0.13 gauss
+Pitch, Roll: -6.40, -139.47
+Heading: -13.81
+
+System_Clock: 2778693
+relative altitude:  95.3 meters,  313 feet
+G: -273.25, -77.53, 102.97 deg/s
+A: -1.42, 0.67, -1.99 g
+M: -0.10, 0.16, -0.07 gauss
+Pitch, Roll: 34.21, 161.45
+Heading: -50.81
+
+System_Clock: 2779065
+relative altitude:  65.9 meters,  216 feet
+G: 67.88, -286.72, -35.29 deg/s
+A: 1.04, -0.24, 2.00 g
+M: 0.48, 0.26, 0.18 gauss
+Pitch, Roll: -27.36, -6.96
+Heading: -143.39
+
+System_Clock: 2779435
+relative altitude:  140.6 meters,  461 feet
+G: -239.46, 14.87, -286.72 deg/s
+A: 0.55, 0.79, 0.24 g
+M: -0.02, -0.10, -0.34 gauss
+Pitch, Roll: -33.42, 73.44
+Heading: 84.41
+
+System_Clock: 2779806
+relative altitude:  115.2 meters,  378 feet
+G: 286.68, -286.72, 286.68 deg/s
+A: 1.21, -0.37, 0.70 g
+M: 0.05, 0.29, -0.21 gauss
+Pitch, Roll: -56.69, -27.45
+Heading: -91.67
+
+System_Clock: 2780179
+relative altitude:  123.1 meters,  404 feet
+G: 119.45, 182.37, 286.68 deg/s
+A: 0.68, 0.45, 0.50 g
+M: 0.26, -0.33, 0.25 gauss
+Pitch, Roll: -45.23, 42.41
+Heading: 137.04
+
+System_Clock: 2780549
+relative altitude:  113.2 meters,  371 feet
+G: 286.68, -286.72, -286.72 deg/s
+A: 0.74, -0.34, 1.43 g
+M: 0.15, -0.45, -0.08 gauss
+Pitch, Roll: -26.75, -13.53
+Heading: 117.57
+
+System_Clock: 2780923
+relative altitude:  118.7 meters,  389 feet
+G: -156.27, 17.11, -54.86 deg/s
+A: -0.17, 0.26, 0.20 g
+M: 0.40, -0.44, -0.23 gauss
+Pitch, Roll: 27.85, 52.86
+Heading: 140.90
+
+System_Clock: 2781294
+relative altitude:  128.2 meters,  421 feet
+G: -7.52, 95.86, 27.61 deg/s
+A: 0.12, 0.26, -0.12 g
+M: 0.50, -0.31, 0.22 gauss
+Pitch, Roll: -22.63, 115.32
+Heading: 156.62
+
+System_Clock: 2781662
+relative altitude:  122.0 meters,  400 feet
+G: 71.67, 117.80, 126.28 deg/s
+A: -0.17, 0.03, -0.05 g
+M: 0.03, -0.30, 0.14 gauss
+Pitch, Roll: 72.38, 151.52
+Heading: 104.77
+
+System_Clock: 2782032
+relative altitude:  108.1 meters,  354 feet
+G: -65.54, 286.68, 286.68 deg/s
+A: 0.17, -0.42, 1.06 g
+M: 0.15, 0.01, -0.45 gauss
+Pitch, Roll: -8.34, -21.74
+Heading: -167.89
+
+System_Clock: 2782404
+relative altitude:  105.9 meters,  348 feet
+G: 230.92, -73.54, 286.68 deg/s
+A: 0.68, -0.22, 0.94 g
+M: 0.39, -0.26, -0.42 gauss
+Pitch, Roll: -35.16, -12.95
+Heading: 155.33
+
+System_Clock: 2782777
+relative altitude:  105.3 meters,  345 feet
+G: -74.30, 25.70, 21.13 deg/s
+A: 0.73, 0.17, 2.00 g
+M: 0.33, 0.12, -0.43 gauss
+Pitch, Roll: -20.07, 4.82
+Heading: -151.08
+
+System_Clock: 2783144
+relative altitude:  105.5 meters,  346 feet
+G: -70.51, -30.27, 197.31 deg/s
+A: 0.33, -0.17, 0.95 g
+M: 0.61, 0.07, -0.27 gauss
+Pitch, Roll: -18.81, -10.19
+Heading: -164.88
+
+System_Clock: 2783517
+relative altitude:  104.2 meters,  342 feet
+G: -10.16, 52.46, 183.86 deg/s
+A: 0.04, -0.20, 1.08 g
+M: 0.14, -0.36, -0.30 gauss
+Pitch, Roll: -2.09, -10.45
+Heading: 119.59
+
+System_Clock: 2783887
+relative altitude:  102.1 meters,  335 feet
+G: -74.58, 28.40, 278.11 deg/s
+A: 0.37, -0.07, 1.16 g
+M: 0.15, -0.40, -0.22 gauss
+Pitch, Roll: -17.81, -3.61
+Heading: 118.45
+
+System_Clock: 2784258
+relative altitude:  100.8 meters,  331 feet
+G: 87.67, 22.00, 111.73 deg/s
+A: 0.18, -0.12, 1.13 g
+M: -0.06, 0.20, -0.18 gauss
+Pitch, Roll: -9.14, -5.81
+Heading: -65.88
+
+System_Clock: 2784626
+relative altitude:  101.0 meters,  331 feet
+G: 2.98, -18.72, 221.56 deg/s
+123456789
+G: 000.00, 000.00, 000.00 
+A: 0.23, -0.25, 0.86 g
+M: 0.37, 0.38, -0.06 gauss
+Pitch, Roll: -14.22, -16.32
+Heading: -125.50
+
+System_Clock: 2784997
+relative altitude:  99.6 meters,  327 feet
+G: 6.22, -49.05, -57.91 deg/s
+A: 0.35, -0.06, 1.13 g
+M: 0.52, 0.29, -0.14 gauss
+Pitch, Roll: -17.12, -3.19
+Heading: -142.65
+
+System_Clock: 2785366
+relative altitude:  97.6 meters,  320 feet
+G: 128.04, 5.02, 286.68 deg/s
+A: 0.40, -0.19, 1.36 g
+M: 0.65, -0.17, -0.27 gauss
+Pitch, Roll: -16.46, -8.02
+Heading: 174.34
+
+System_Clock: 2785734
+relative altitude:  96.2 meters,  316 feet
+G: 43.00, 0.91, 124.40 deg/s
+A: 0.28, -0.05, 1.14 g
+M: 0.37, -0.26, -0.44 gauss
+Pitch, Roll: -13.68, -2.66
+Heading: 152.87
+
+System_Clock: 2786101
+relative altitude:  95.5 meters,  313 feet
+G: 74.09, -34.76, 5.08 deg/s
+A: 0.21, -0.04, 0.85 g
+M: 0.34, -0.15, -0.47 gauss
+Pitch, Roll: -13.48, -2.74
+Heading: 165.30
+
+System_Clock: 2786468
+relative altitude:  94.2 meters,  309 feet
+G: 23.86, -15.20, 209.57 deg/s
+A: 0.17, -0.08, 0.82 g
+M: 0.25, -0.04, -0.49 gauss
+Pitch, Roll: -11.61, -5.44
+Heading: -179.40
+
+System_Clock: 2786839
+relative altitude:  93.3 meters,  306 feet
+G: 65.53, 19.23, 88.76 deg/s
+A: 0.16, -0.07, 1.00 g
+M: 0.41, 0.13, -0.42 gauss
+Pitch, Roll: -9.14, -4.02
+Heading: -154.29
+
+System_Clock: 2787206
+relative altitude:  91.3 meters,  300 feet
+G: 34.67, 54.34, 99.02 deg/s
+A: 0.20, -0.06, 1.27 g
+M: 0.52, 0.14, -0.35 gauss
+Pitch, Roll: -9.09, -2.70
+Heading: -156.31
+
+System_Clock: 2787571
+relative altitude:  89.0 meters,  292 feet
+G: 17.02, 21.85, 74.16 deg/s
+A: 0.24, -0.07, 1.25 g
+M: 0.61, 0.13, -0.24 gauss
+Pitch, Roll: -10.89, -3.08
+Heading: -159.29
+
+System_Clock: 2787939
+relative altitude:  89.3 meters,  293 feet
+G: 25.68, 18.18, -48.88 deg/s
+A: 0.19, -0.13, 1.14 g
+M: 0.69, 0.03, -0.13 gauss
+Pitch, Roll: -9.43, -6.43
+Heading: -168.59
+
+System_Clock: 2788306
+relative altitude:  89.1 meters,  292 feet
+G: 10.37, -11.13, -67.10 deg/s
+A: 0.20, -0.07, 0.99 g
+M: 0.63, 0.18, -0.11 gauss
+Pitch, Roll: -11.42, -3.81
+Heading: -155.36
+
+System_Clock: 2788676
+relative altitude:  88.0 meters,  289 feet
+G: -22.52, -5.37, 5.61 deg/s
+A: 0.13, -0.08, 0.81 g
+M: 0.61, 0.20, -0.14 gauss
+Pitch, Roll: -9.27, -5.94
+Heading: -153.38
+
+System_Clock: 2789043
+relative altitude:  87.1 meters,  286 feet
+G: -32.36, 4.43, -82.50 deg/s
+A: 0.19, -0.07, 0.90 g
+M: 0.47, 0.29, -0.22 gauss
+Pitch, Roll: -11.94, -4.57
+Heading: -139.79
+
+System_Clock: 2789410
+relative altitude:  86.0 meters,  282 feet
+G: -26.51, -8.09, -54.79 deg/s
+A: 0.20, -0.07, 0.96 g
+M: 0.37, 0.30, -0.28 gauss
+Pitch, Roll: -11.56, -4.05
+Heading: -132.27
+
+System_Clock: 2789780
+relative altitude:  84.6 meters,  278 feet
+G: -10.37, 18.66, -47.93 deg/s
+A: 0.15, -0.06, 0.83 g
+M: 0.32, 0.27, -0.34 gauss
+Pitch, Roll: -9.96, -4.20
+Heading: -131.35
+
+System_Clock: 2790149
+relative altitude:  82.9 meters,  272 feet
+G: -27.26, 7.62, -65.08 deg/s
+A: 0.20, -0.06, 0.87 g
+M: 0.17, 0.22, -0.38 gauss
+Pitch, Roll: -13.12, -3.70
+Heading: -120.07
+
+System_Clock: 2790517
+relative altitude:  82.0 meters,  269 feet
+G: -3.91, -11.46, -52.50 deg/s
+A: 0.22, -0.06, 0.92 g
+M: 0.09, 0.12, -0.38 gauss
+Pitch, Roll: -13.12, -3.93
+Heading: -116.52
+
+System_Clock: 2790887
+relative altitude:  80.3 meters,  263 feet
+G: -16.00, -21.64, -93.55 deg/s
+A: 0.20, -0.08, 0.96 g
+M: 0.04, 0.02, -0.39 gauss
+Pitch, Roll: -11.51, -4.92
+Heading: -139.51
+
+System_Clock: 2791258
+relative altitude:  79.1 meters,  260 feet
+G: -14.52, -1.48, -31.44 deg/s
+A: 0.20, -0.06, 0.96 g
+M: 0.02, -0.14, -0.38 gauss
+Pitch, Roll: -11.86, -3.41
+Heading: 104.83
+
+System_Clock: 2791626
+relative altitude:  77.4 meters,  254 feet
+G: -10.53, 3.48, -17.67 deg/s
+A: 0.19, -0.07, 0.87 g
+M: 0.03, -0.20, -0.35 gauss
+Pitch, Roll: -12.27, -4.47
+Heading: 107.10
+
+System_Clock: 2791995
+relative altitude:  75.1 meters,  246 feet
+G: 6.18, -12.28, -102.31 deg/s
+A: 0.20, -0.08, 0.92 g
+M: 0.11, -0.31, -0.35 gauss
+Pitch, Roll: -12.50, -4.76
+Heading: 118.18
+
+System_Clock: 2792365
+relative altitude:  72.9 meters,  239 feet
+G: 6.01, -15.76, -56.48 deg/s
+A: 0.21, -0.09, 1.02 g
+M: 0.22, -0.37, -0.35 gauss
+Pitch, Roll: -11.39, -4.85
+Heading: 129.44
+
+System_Clock: 2792733
+relative altitude:  71.5 meters,  235 feet
+G: -5.71, 12.64, -15.58 deg/s
+A: 0.17, -0.11, 0.98 g
+M: 0.28, -0.37, -0.35 gauss
+Pitch, Roll: -9.99, -6.31
+Heading: 135.69
+
+System_Clock: 2793101
+relative altitude:  69.5 meters,  228 feet
+G: 7.95, 17.96, -63.79 deg/s
+A: 0.21, -0.08, 0.94 g
+M: 0.42, -0.37, -0.35 gauss
+Pitch, Roll: -12.32, -4.70
+Heading: 147.05
+
+System_Clock: 2793467
+relative altitude:  68.5 meters,  225 feet
+G: 2.26, -6.06, -51.37 deg/s
+A: 0.23, -0.10, 1.11 g
+M: 0.50, -0.33, -0.34 gauss
+Pitch, Roll: -11.57, -4.92
+Heading: 155.16
+
+System_Clock: 2793835
+relative altitude:  66.9 meters,  220 feet
+G: -6.28, 6.95, -93.11 deg/s
+A: 0.17, -0.12, 0.97 g
+M: 0.59, -0.24, -0.32 gauss
+Pitch, Roll: -9.84, -7.00
+Heading: 166.30
+
+System_Clock: 2794202
+relative altitude:  65.5 meters,  215 feet
+G: -2.35, 18.52, -78.51 deg/s
+A: 0.16, -0.13, 0.93 g
+M: 0.65, -0.07, -0.29 gauss
+Pitch, Roll: -9.67, -7.75
+Heading: -177.51
+
+System_Clock: 2794570
+relative altitude:  63.5 meters,  208 feet
+G: -33.45, 13.96, -64.26 deg/s
+A: 0.13, -0.10, 0.97 g
+M: 0.63, 0.07, -0.27 gauss
+Pitch, Roll: -7.59, -5.78
+Heading: -165.48
+
+System_Clock: 2794939
+relative altitude:  60.6 meters,  199 feet
+G: -9.13, 27.61, -81.74 deg/s
+A: 0.18, 0.06, 1.06 g
+M: 0.52, 0.22, -0.26 gauss
+Pitch, Roll: -9.45, 3.11
+Heading: -148.57
+
+System_Clock: 2795303
+relative altitude:  58.8 meters,  193 feet
+G: -3.23, 27.91, -68.12 deg/s
+A: 0.18, -0.06, 1.07 g
+M: 0.47, 0.27, -0.25 gauss
+Pitch, Roll: -9.72, -3.35
+Heading: -141.08
+
+System_Clock: 2795671
+relative altitude:  57.8 meters,  190 feet
+G: -16.55, 27.51, -150.68 deg/s
+A: 0.25, -0.09, 1.15 g
+M: 0.24, 0.32, -0.27 gauss
+Pitch, Roll: -12.29, -4.69
+Heading: -118.13
+
+System_Clock: 2796042
+relative altitude:  57.6 meters,  189 feet
+G: -7.80, 7.64, -63.21 deg/s
+A: 0.23, -0.06, 0.93 g
+M: -0.01, 0.16, -0.30 gauss
+Pitch, Roll: -13.75, -3.64
+Heading: -77.96
+
+System_Clock: 2796409
+relative altitude:  56.3 meters,  185 feet
+G: -25.29, 1.04, -58.09 deg/s
+A: 0.19, -0.09, 0.96 g
+M: -0.03, 0.05, -0.32 gauss
+Pitch, Roll: -11.30, -5.31
+Heading: -48.77
+
+System_Clock: 2796778
+relative altitude:  54.3 meters,  178 feet
+G: -19.48, 21.54, -112.87 deg/s
+A: 0.19, -0.10, 1.00 g
+M: 0.02, -0.17, -0.36 gauss
+Pitch, Roll: -10.82, -5.91
+Heading: 105.23
+
+System_Clock: 2797148
+relative altitude:  53.0 meters,  174 feet
+G: -6.78, 31.60, -69.63 deg/s
+A: 0.19, -0.10, 1.08 g
+M: 0.18, -0.33, -0.36 gauss
+Pitch, Roll: -10.12, -5.24
+Heading: 126.28
+
+System_Clock: 2797516
+relative altitude:  51.3 meters,  168 feet
+G: -11.38, 31.26, -73.83 deg/s
+A: 0.20, -0.09, 1.02 g
+M: 0.38, -0.37, -0.35 gauss
+Pitch, Roll: -10.84, -5.27
+Heading: 144.34
+
+System_Clock: 2797886
+relative altitude:  50.6 meters,  166 feet
+G: 2.48, 11.54, -92.16 deg/s
+A: 0.20, -0.07, 0.97 g
+M: 0.57, -0.26, -0.34 gauss
+Pitch, Roll: -11.69, -4.27
+Heading: 164.29
+
+System_Clock: 2798254
+relative altitude:  48.6 meters,  159 feet
+G: -19.87, -13.26, -99.73 deg/s
+A: 0.19, -0.09, 0.98 g
+M: 0.62, -0.12, -0.31 gauss
+Pitch, Roll: -10.73, -5.39
+Heading: 177.89
+
+System_Clock: 2798624
+relative altitude:  48.6 meters,  159 feet
+G: -24.70, 16.63, -64.06 deg/s
+A: 0.17, -0.08, 1.04 g
+M: 0.62, 0.01, -0.30 gauss
+Pitch, Roll: -9.49, -4.63
+Heading: -170.50
+
+System_Clock: 2798993
+relative altitude:  47.1 meters,  155 feet
+G: -28.21, 33.69, -123.66 deg/s
+A: 0.18, -0.05, 1.09 g
+M: 0.59, 0.11, -0.30 gauss
+Pitch, Roll: -9.33, -2.56
+Heading: -161.24
+
+System_Clock: 2799362
+relative altitude:  45.7 meters,  150 feet
+G: -3.75, 31.54, -89.70 deg/s
+A: 0.25, -0.04, 1.11 g
+M: 0.42, 0.29, -0.26 gauss
+Pitch, Roll: -12.85, -1.88
+Heading: -136.64
+
+System_Clock: 2799730
+relative altitude:  45.1 meters,  148 feet
+G: 15.02, 4.60, -52.05 deg/s
+A: 0.23, -0.05, 0.94 g
+M: 0.23, 0.35, -0.22 gauss
+Pitch, Roll: -13.65, -2.75
+Heading: -115.41
+
+System_Clock: 2800098
+relative altitude:  44.4 meters,  146 feet
+G: -18.97, -22.69, -88.52 deg/s
+A: 0.26, -0.07, 1.01 g
+M: 0.08, 0.30, -0.24 gauss
+Pitch, Roll: -14.49, -3.73
+Heading: -96.97
+
+System_Clock: 2800467
+relative altitude:  43.3 meters,  142 feet
+G: -16.84, -1.63, 20.19 deg/s
+A: 0.22, -0.05, 0.95 g
+M: 0.02, 0.23, -0.26 gauss
+Pitch, Roll: -13.11, -3.19
+Heading: -87.20
+
+System_Clock: 2800835
+relative altitude:  41.8 meters,  137 feet
+G: -35.05, 0.43, 7.88 deg/s
+A: 0.20, -0.09, 0.97 g
+M: 0.06, 0.23, -0.29 gauss
+Pitch, Roll: -11.59, -5.16
+Heading: -95.38
+
+System_Clock: 2801200
+relative altitude:  40.6 meters,  133 feet
+G: -23.26, 13.65, -35.14 deg/s
+A: 0.23, -0.07, 1.01 g
+M: 0.05, 0.14, -0.36 gauss
+Pitch, Roll: -12.54, -3.86
+Heading: -100.02
+
+System_Clock: 2801569
+relative altitude:  40.6 meters,  133 feet
+G: 5.17, 16.00, 14.22 deg/s
+A: 0.23, -0.06, 1.10 g
+M: 0.10, 0.10, -0.41 gauss
+Pitch, Roll: -11.88, -2.99
+Heading: -124.92
+
+System_Clock: 2801936
+relative altitude:  39.9 meters,  131 feet
+G: -11.09, 4.24, 17.47 deg/s
+A: 0.17, -0.06, 0.79 g
+M: 0.17, 0.13, -0.42 gauss
+Pitch, Roll: -11.92, -4.04
+Heading: -134.56
+
+System_Clock: 2802304
+relative altitude:  38.4 meters,  126 feet
+G: 30.31, 3.89, -2.40 deg/s
+A: 0.23, -0.08, 0.95 g
+M: 0.17, 0.16, -0.41 gauss
+Pitch, Roll: -13.79, -4.67
+Heading: -128.96
+
+System_Clock: 2802669
+relative altitude:  36.6 meters,  120 feet
+G: 38.26, -7.28, 29.32 deg/s
+A: 0.20, -0.06, 0.92 g
+M: 0.20, 0.24, -0.36 gauss
+Pitch, Roll: -12.45, -3.48
+Heading: -122.45
+
+System_Clock: 2803037
+relative altitude:  36.3 meters,  119 feet
+G: 37.56, -16.46, 18.17 deg/s
+A: 0.24, -0.06, 1.05 g
+M: 0.20, 0.32, -0.26 gauss
+Pitch, Roll: -12.81, -3.37
+Heading: -113.24
+
+System_Clock: 2803405
+relative altitude:  34.6 meters,  113 feet
+G: 48.40, -1.14, 76.48 deg/s
+A: 0.22, -0.08, 1.03 g
+M: 0.31, 0.37, -0.14 gauss
+Pitch, Roll: -11.89, -4.59
+Heading: -121.06
+
+System_Clock: 2803773
+relative altitude:  34.0 meters,  111 feet
+G: 19.85, -4.01, 56.54 deg/s
+A: 0.20, -0.08, 0.92 g
+M: 0.50, 0.32, -0.06 gauss
+Pitch, Roll: -12.33, -5.18
+Heading: -138.34
+
+System_Clock: 2804141
+relative altitude:  33.6 meters,  110 feet
+G: -2.94, -25.79, 65.49 deg/s
+A: 0.23, -0.08, 0.91 g
+M: 0.61, 0.23, -0.06 gauss
+Pitch, Roll: -14.39, -4.93
+Heading: -150.87
+
+System_Clock: 2804508
+relative altitude:  31.5 meters,  103 feet
+G: 25.84, -37.76, 119.04 deg/s
+A: 0.29, -0.10, 1.08 g
+M: 0.71, -0.03, -0.14 gauss
+Pitch, Roll: -14.72, -5.19
+Heading: -173.58
+
+System_Clock: 2804879
+relative altitude:  29.8 meters,  98 feet
+G: 60.23, -27.94, 119.05 deg/s
+A: 0.30, -0.08, 1.28 g
+M: 0.60, -0.28, -0.28 gauss
+Pitch, Roll: -13.20, -3.45
+Heading: 163.30
+
+System_Clock: 2805248
+relative altitude:  28.4 meters,  93 feet
+G: 62.97, -5.03, 134.02 deg/s
+A: 0.27, -0.08, 1.16 g
+M: 0.37, -0.30, -0.41 gauss
+Pitch, Roll: -12.97, -4.04
+Heading: 149.02
+
+System_Clock: 2805615
+relative altitude:  28.1 meters,  92 feet
+G: 30.11, -18.44, 85.29 deg/s
+A: 0.21, -0.06, 0.95 g
+M: 0.21, -0.17, -0.46 gauss
+Pitch, Roll: -12.75, -3.42
+Heading: 148.64
+
+System_Clock: 2805983
+relative altitude:  26.9 meters,  88 feet
+G: 39.81, -38.55, 133.34 deg/s
+A: 0.22, -0.05, 0.98 g
+M: 0.11, 0.03, -0.44 gauss
+Pitch, Roll: -12.49, -2.80
+Heading: -158.48
+
+System_Clock: 2806350
+relative altitude:  26.1 meters,  86 feet
+G: 71.38, -5.01, 158.75 deg/s
+A: 0.20, -0.07, 1.05 g
+M: 0.27, 0.28, -0.32 gauss
+Pitch, Roll: -10.84, -3.95
+Heading: -125.82
+
+System_Clock: 2806718
+relative altitude:  25.5 meters,  84 feet
+G: 42.97, 19.37, 92.31 deg/s
+A: 0.21, -0.10, 1.11 g
+M: 0.59, 0.21, -0.18 gauss
+Pitch, Roll: -10.63, -5.25
+Heading: -151.67
+
+System_Clock: 2807085
+relative altitude:  24.6 meters,  81 feet
+G: 4.90, -0.67, 77.47 deg/s
+A: 0.20, -0.07, 0.96 g
+M: 0.71, 0.01, -0.11 gauss
+Pitch, Roll: -11.68, -4.31
+Heading: -170.82
+
+System_Clock: 2807450
+relative altitude:  23.8 meters,  78 feet
+G: 12.08, -18.55, 134.92 deg/s
+A: 0.19, -0.08, 0.91 g
+M: 0.65, -0.30, -0.13 gauss
+Pitch, Roll: -11.96, -4.84
+Heading: 163.30
+
+System_Clock: 2807819
+relative altitude:  22.9 meters,  75 feet
+G: 37.56, -11.73, 132.92 deg/s
+A: 0.22, -0.07, 1.03 g
+M: 0.38, -0.44, -0.24 gauss
+Pitch, Roll: -11.80, -3.86
+Heading: 138.97
+
+System_Clock: 2808186
+relative altitude:  21.3 meters,  70 feet
+G: 48.99, 10.47, 113.10 deg/s
+A: 0.21, -0.11, 1.03 g
+M: 0.10, -0.29, -0.36 gauss
+Pitch, Roll: -11.31, -5.96
+Heading: 118.05
+
+System_Clock: 2808554
+relative altitude:  20.9 meters,  69 feet
+G: 8.65, 8.92, 75.80 deg/s
+A: 0.19, -0.10, 1.02 g
+M: 0.02, -0.08, -0.39 gauss
+Pitch, Roll: -10.70, -5.70
+Heading: 114.36
+
+System_Clock: 2808919
+relative altitude:  20.7 meters,  68 feet
+G: -25.96, -25.26, 69.24 deg/s
+A: 0.24, -0.17, 1.25 g
+M: 0.05, 0.05, -0.40 gauss
+Pitch, Roll: -10.73, -7.80
+Heading: -127.64
+
+System_Clock: 2809287
+relative altitude:  20.4 meters,  67 feet
+G: -29.00, -20.35, -25.17 deg/s
+A: 0.21, -0.12, 1.21 g
+M: 0.03, 0.04, -0.39 gauss
+Pitch, Roll: -9.93, -5.49
+Heading: -114.97
+
+System_Clock: 2809656
+relative altitude:  19.6 meters,  64 feet
+G: -33.49, -2.04, -1.83 deg/s
+A: 0.19, -0.07, 0.98 g
+M: -0.03, -0.11, -0.34 gauss
+Pitch, Roll: -10.74, -4.11
+Heading: 85.47
+
+System_Clock: 2810022
+relative altitude:  18.3 meters,  60 feet
+G: -4.31, -2.52, -43.68 deg/s
+A: 0.17, -0.06, 0.80 g
+M: -0.01, -0.18, -0.33 gauss
+Pitch, Roll: -12.10, -4.10
+Heading: 93.73
+
+System_Clock: 2810390
+relative altitude:  17.4 meters,  57 feet
+G: 11.10, -12.62, -124.23 deg/s
+A: 0.20, -0.07, 0.91 g
+M: 0.09, -0.30, -0.33 gauss
+Pitch, Roll: -12.08, -4.51
+Heading: 114.78
+
+System_Clock: 2810760
+relative altitude:  17.3 meters,  57 feet
+G: 9.63, -16.63, -69.03 deg/s
+A: 0.23, -0.07, 1.07 g
+M: 0.24, -0.38, -0.33 gauss
+Pitch, Roll: -12.10, -3.55
+Heading: 130.58
+
+System_Clock: 2811127
+relative altitude:  17.3 meters,  57 feet
+G: 0.49, -23.03, -82.44 deg/s
+A: 0.23, -0.08, 1.13 g
+M: 0.36, -0.38, -0.34 gauss
+Pitch, Roll: -11.56, -3.95
+Heading: 142.39
+
+System_Clock: 2811495
+relative altitude:  16.7 meters,  55 feet
+G: -23.90, -22.25, -58.71 deg/s
+A: 0.25, -0.08, 1.20 g
+M: 0.45, -0.37, -0.33 gauss
+Pitch, Roll: -11.61, -3.62
+Heading: 149.44
+
+System_Clock: 2811864
+relative altitude:  17.0 meters,  56 feet
+G: -24.88, 7.58, -51.17 deg/s
+A: 0.17, -0.06, 0.93 g
+M: 0.54, -0.34, -0.30 gauss
+Pitch, Roll: -10.29, -3.42
+Heading: 156.56
+
+System_Clock: 2812231
+relative altitude:  16.0 meters,  52 feet
+G: 11.29, 16.35, -104.44 deg/s
+A: 0.21, -0.04, 0.91 g
+M: 0.65, -0.19, -0.26 gauss
+Pitch, Roll: -12.90, -2.47
+Heading: 172.02
+
+System_Clock: 2812600
+relative altitude:  14.7 meters,  48 feet
+G: 26.12, 6.97, -77.42 deg/s
+A: 0.22, -0.04, 1.08 g
+M: 0.68, 0.00, -0.20 gauss
+Pitch, Roll: -11.42, -2.24
+Heading: -171.35
+
+System_Clock: 2812966
+relative altitude:  15.3 meters,  50 feet
+G: 30.19, 7.99, -49.49 deg/s
+A: 0.24, -0.05, 1.18 g
+M: 0.61, 0.19, -0.16 gauss
+Pitch, Roll: -11.36, -2.32
+Heading: -154.56
+
+System_Clock: 2813333
+relative altitude:  15.3 meters,  50 feet
+G: 11.24, 0.75, -16.91 deg/s
+A: 0.21, -0.08, 1.06 g
+M: 0.53, 0.29, -0.11 gauss
+Pitch, Roll: -11.28, -4.21
+Heading: -142.98
+
+System_Clock: 2813699
+relative altitude:  15.2 meters,  50 feet
+G: -16.97, -0.26, 2.95 deg/s
+A: 0.18, -0.06, 0.84 g
+M: 0.48, 0.32, -0.12 gauss
+Pitch, Roll: -11.86, -4.29
+Heading: -137.61
+
+System_Clock: 2814065
+relative altitude:  15.0 meters,  49 feet
+G: -31.41, -3.09, -10.81 deg/s
+A: 0.19, -0.07, 0.95 g
+M: 0.49, 0.29, -0.20 gauss
+Pitch, Roll: -11.53, -4.51
+Heading: -140.86
+
+System_Clock: 2814434
+relative altitude:  14.7 meters,  48 feet
+G: -51.90, -9.20, 3.57 deg/s
+A: 0.20, -0.09, 1.09 g
+M: 0.51, 0.21, -0.29 gauss
+Pitch, Roll: -10.53, -4.48
+Heading: -148.94
+
+System_Clock: 2814800
+relative altitude:  14.5 meters,  47 feet
+G: -26.66, 19.42, 22.92 deg/s
+A: 0.17, -0.06, 0.90 g
+M: 0.55, 0.11, -0.34 gauss
+Pitch, Roll: -10.46, -3.90
+Heading: -159.68
+
+System_Clock: 2815168
+relative altitude:  13.1 meters,  43 feet
+G: -5.72, 9.72, -6.98 deg/s
+A: 0.17, -0.03, 0.80 g
+M: 0.57, 0.05, -0.35 gauss
+Pitch, Roll: -11.82, -2.26
+Heading: -166.21
+
+System_Clock: 2815533
+relative altitude:  13.1 meters,  43 feet
+G: 11.44, 13.21, -15.40 deg/s
+A: 0.16, -0.02, 0.85 g
+M: 0.61, 0.06, -0.30 gauss
+Pitch, Roll: -10.91, -1.02
+Heading: -166.08
+
+System_Clock: 2815900
+relative altitude:  12.3 meters,  40 feet
+G: 36.37, 25.14, -8.36 deg/s
+A: 0.24, -0.02, 1.13 g
+M: 0.62, 0.12, -0.25 gauss
+Pitch, Roll: -11.90, -0.90
+Heading: -160.58
+
+System_Clock: 2816267
+relative altitude:  11.3 meters,  37 feet
+G: 40.94, 20.44, 7.88 deg/s
+A: 0.24, -0.01, 1.20 g
+M: 0.64, 0.15, -0.16 gauss
+Pitch, Roll: -11.51, -0.70
+Heading: -158.11
+
+System_Clock: 2816632
+relative altitude:  11.0 meters,  36 feet
+G: 29.27, -2.49, 8.51 deg/s
+A: 0.26, -0.03, 1.14 g
+M: 0.63, 0.19, -0.09 gauss
+Pitch, Roll: -12.67, -1.65
+Heading: -154.86
+
+System_Clock: 2816998
+relative altitude:  10.8 meters,  35 feet
+G: 21.43, -6.88, 79.00 deg/s
+A: 0.24, -0.04, 1.13 g
+M: 0.69, 0.08, -0.07 gauss
+Pitch, Roll: -12.08, -1.97
+Heading: -164.99
+
+System_Clock: 2817363
+relative altitude:  11.1 meters,  36 feet
+G: 18.20, -29.31, 33.28 deg/s
+A: 0.25, -0.04, 1.07 g
+M: 0.71, -0.06, -0.12 gauss
+Pitch, Roll: -13.06, -2.36
+Heading: -176.64
+
+System_Clock: 2817732
+relative altitude:  11.0 meters,  36 feet
+G: 40.02, -41.70, 46.40 deg/s
+A: 0.25, -0.06, 1.09 g
+M: 0.67, -0.20, -0.21 gauss
+Pitch, Roll: -12.90, -3.19
+Heading: 172.43
+
+System_Clock: 2818100
+relative altitude:  10.8 meters,  36 feet
+G: 39.27, -40.75, 57.51 deg/s
+A: 0.22, -0.06, 1.13 g
+M: 0.54, -0.31, -0.33 gauss
+Pitch, Roll: -10.93, -3.09
+Heading: 158.84
+
+System_Clock: 2818467
+relative altitude:  10.6 meters,  35 feet
+G: 34.44, -21.24, 54.79 deg/s
+A: 0.19, -0.07, 1.00 g
+M: 0.40, -0.27, -0.42 gauss
+Pitch, Roll: -10.84, -3.85
+Heading: 155.28
+
+System_Clock: 2818835
+relative altitude:  10.9 meters,  36 feet
+G: 25.16, -4.72, 87.91 deg/s
+A: 0.18, -0.07, 0.86 g
+M: 0.28, -0.20, -0.46 gauss
+Pitch, Roll: -11.80, -4.50
+Heading: 152.38
+
+System_Clock: 2819201
+relative altitude:  10.8 meters,  35 feet
+G: 9.92, -31.54, 41.20 deg/s
+A: 0.18, -0.07, 0.87 g
+M: 0.18, -0.13, -0.46 gauss
+Pitch, Roll: -11.96, -4.63
+Heading: 153.09
+
+System_Clock: 2819567
+relative altitude:  10.8 meters,  35 feet
+G: 3.62, -34.69, 36.17 deg/s
+A: 0.19, -0.09, 0.95 g
+M: 0.11, -0.06, -0.44 gauss
+Pitch, Roll: -11.57, -5.55
+Heading: 160.78
+
+System_Clock: 2819934
+relative altitude:  10.7 meters,  35 feet
+G: -1.18, -20.19, 77.25 deg/s
+A: 0.23, -0.11, 1.02 g
+M: 0.04, 0.03, -0.39 gauss
+Pitch, Roll: -12.85, -6.06
+Heading: -133.87
+
+System_Clock: 2820301
+relative altitude:  10.9 meters,  36 feet
+G: 6.87, -18.05, 89.14 deg/s
+A: 0.27, -0.08, 1.04 g
+M: 0.05, 0.16, -0.34 gauss
+Pitch, Roll: -14.75, -4.62
+Heading: -97.47
+
+System_Clock: 2820667
+relative altitude:  10.1 meters,  33 feet
+G: 30.62, -25.29, 144.66 deg/s
+A: 0.27, -0.07, 1.04 g
+M: 0.25, 0.31, -0.29 gauss
+Pitch, Roll: -14.37, -3.83
+Heading: -120.09
+
+System_Clock: 2821035
+relative altitude:  8.6 meters,  28 feet
+G: 39.43, -32.91, 117.58 deg/s
+A: 0.23, -0.04, 1.07 g
+M: 0.49, 0.26, -0.25 gauss
+Pitch, Roll: -12.28, -2.11
+Heading: -143.60
+
+System_Clock: 2821402
+relative altitude:  8.6 meters,  28 feet
+G: 51.32, -29.52, 90.89 deg/s
+A: 0.17, -0.09, 0.89 g
+M: 0.66, 0.06, -0.21 gauss
+Pitch, Roll: -10.61, -5.97
+Heading: -166.24
+
+System_Clock: 2821769
+relative altitude:  9.1 meters,  30 feet
+G: 12.85, -1.84, 108.29 deg/s
+A: 0.13, -0.10, 0.65 g
+M: 0.66, -0.21, -0.24 gauss
+Pitch, Roll: -10.87, -8.41
+Heading: 170.93
+
+System_Clock: 2822135
+relative altitude:  8.7 meters,  29 feet
+G: 5.57, -24.47, 87.76 deg/s
+A: 0.25, -0.08, 0.89 g
+M: 0.54, -0.35, -0.28 gauss
+Pitch, Roll: -15.33, -5.42
+Heading: 155.64
+
+System_Clock: 2822501
+relative altitude:  8.8 meters,  29 feet
+G: 59.55, -38.13, 179.12 deg/s
+A: 0.31, -0.07, 1.05 g
+M: 0.19, -0.36, -0.35 gauss
+Pitch, Roll: -16.36, -3.87
+Heading: 126.77
+
+System_Clock: 2822867
+relative altitude:  5.1 meters,  17 feet
+G: 73.97, -25.12, 118.11 deg/s
+A: 0.26, -0.01, 1.22 g
+M: -0.03, 0.05, -0.33 gauss
+Pitch, Roll: -11.93, -0.60
+Heading: -47.39
+
+System_Clock: 2823235
+relative altitude:  5.0 meters,  16 feet
+G: 48.24, 12.53, 118.65 deg/s
+A: 0.05, -0.14, 0.87 g
+M: 0.21, 0.34, -0.23 gauss
+Pitch, Roll: -3.47, -9.39
+Heading: -112.45
+
+System_Clock: 2823601
+relative altitude:  6.3 meters,  21 feet
+G: 159.78, -174.74, 95.21 deg/s
+A: -0.62, -0.77, 1.13 g
+M: 0.49, 0.33, -0.11 gauss
+Pitch, Roll: 24.58, -34.37
+Heading: -137.56
+
+System_Clock: 2823970
+relative altitude:  5.5 meters,  18 feet
+G: 81.86, -76.00, 153.46 deg/s
+A: 0.12, -1.55, 0.47 g
+M: 0.69, 0.08, -0.01 gauss
+Pitch, Roll: -4.33, -73.11
+Heading: -164.40
+
+System_Clock: 2824338
+relative altitude:  5.4 meters,  18 feet
+G: 3.28, -32.10, 4.23 deg/s
+A: -0.18, -1.17, 0.04 g
+M: 0.58, 0.22, -0.15 gauss
+Pitch, Roll: 8.72, -88.19
+Heading: -150.46
+
+System_Clock: 2824701
+relative altitude:  5.2 meters,  17 feet
+G: -27.02, -36.60, -63.34 deg/s
+A: -0.12, -1.11, 0.16 g
+M: 0.55, 0.22, -0.24 gauss
+Pitch, Roll: 6.13, -81.96
+Heading: -149.82
+
+System_Clock: 2825070
+relative altitude:  4.9 meters,  16 feet
+G: 26.99, 0.49, -30.87 deg/s
+A: -0.52, -0.81, 0.10 g
+M: 0.43, 0.29, -0.25 gauss
+Pitch, Roll: 32.67, -82.74
+Heading: -137.90
+
+System_Clock: 2825437
+relative altitude:  5.2 meters,  17 feet
+G: -4.90, -2.42, 11.51 deg/s
+A: -0.53, -0.86, 0.08 g
+M: 0.42, 0.31, -0.23 gauss
+Pitch, Roll: 31.35, -85.03
+Heading: -135.11
